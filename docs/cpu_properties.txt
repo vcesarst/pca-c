@@ -1,0 +1,43 @@
+Arquitetura:                               x86_64
+Modo(s) operacional da CPU:                32-bit, 64-bit
+Tamanhos de endereço:                      39 bits physical, 48 bits virtual
+Ordem dos bytes:                           Little Endian
+CPU(s):                                    8
+Lista de CPU(s) on-line:                   0-7
+ID de fornecedor:                          GenuineIntel
+Nome do modelo:                            Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+Família da CPU:                            6
+Modelo:                                    142
+Thread(s) per núcleo:                      2
+Núcleo(s) por soquete:                     4
+Soquete(s):                                1
+Step:                                      12
+CPU(s) scaling MHz:                        9%
+CPU MHz máx.:                              4600,0000
+CPU MHz mín.:                              400,0000
+BogoMIPS:                                  3999,93
+Opções:                                    fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb ssbd ibrs ibpb stibp ibrs_enhanced tpr_shadow flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp vnmi md_clear flush_l1d arch_capabilities indirect_thunk_its ibpb_exit_to_user
+Virtualização:                             VT-x
+cache de L1d:                              128 KiB (4 instâncias)
+cache de L1i:                              128 KiB (4 instâncias)
+cache de L2:                               1 MiB (4 instâncias)
+cache de L3:                               8 MiB (1 instância)
+Nó(s) de NUMA:                             1
+CPU(s) de nó0 NUMA:                        0-7
+Vulnerabilidade Gather data sampling:      Mitigation; Microcode
+Vulnerabilidade Indirect target selection: Mitigation; Aligned branch/return thunks
+Vulnerabilidade Itlb multihit:             KVM: Mitigation: VMX disabled
+Vulnerabilidade L1tf:                      Not affected
+Vulnerabilidade Mds:                       Not affected
+Vulnerabilidade Meltdown:                  Not affected
+Vulnerabilidade Mmio stale data:           Mitigation; Clear CPU buffers; SMT vulnerable
+Vulnerabilidade Reg file data sampling:    Not affected
+Vulnerabilidade Retbleed:                  Mitigation; Enhanced IBRS
+Vulnerabilidade Spec rstack overflow:      Not affected
+Vulnerabilidade Spec store bypass:         Mitigation; Speculative Store Bypass disabled via prctl
+Vulnerabilidade Spectre v1:                Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+Vulnerabilidade Spectre v2:                Mitigation; Enhanced / Automatic IBRS; IBPB conditional; PBRSB-eIBRS SW sequence; BHI SW loop, KVM SW loop
+Vulnerabilidade Srbds:                     Mitigation; Microcode
+Vulnerabilidade Tsa:                       Not affected
+Vulnerabilidade Tsx async abort:           Not affected
+Vulnerabilidade Vmscape:                   Mitigation; IBPB before exit to userspace
